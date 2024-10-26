@@ -1,15 +1,12 @@
 # Textual Demo
 
-Quick access to the [Textual demo](https://github.com/textualize/textual)!
+Quick access to the [Textual demo](https://github.com/textualize/textual)
 
-The Textual demo is a (work in progress) app for demonstrating some of Textual's features. This project bundles up that app, so it is a command line away.
+The Textual demo is bundled with the Textual library.
+This project bundles that app so that you it is a single command away.
 
+## Running the Textual Demo
 
-## As easy as Py
-
-<table width="100%">
-  <tr>
-    <td>
       
 If you have [uv](https://docs.astral.sh/uv/guides/tools/) installed:
 
@@ -23,16 +20,16 @@ If you have [pipx](https://pipx.pypa.io/stable/) installed:
 pipx run textual-demo
 ```
 
-   </td>
-   <td>
+### Was that fun? 
+
+Head over to [Textual](https://github.com/textualize/textual/) to start building!
+
+
+## Video 
      
 https://github.com/user-attachments/assets/9e802aa1-c3a4-42bd-9669-66cba205cc74
      
-   </td>
-  </tr>
-</table>
 
-## 
 
 
 
