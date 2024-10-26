@@ -1,12 +1,8 @@
-# Textual Demo
 
 Quick access to the [Textual demo](https://github.com/textualize/textual)
 
 The Textual demo is bundled with the Textual library.
 This project bundles that app so that you it is a single command away.
-
-## Running the Textual Demo
-
       
 If you have [uv](https://docs.astral.sh/uv/guides/tools/) installed:
 
@@ -20,7 +16,7 @@ If you have [pipx](https://pipx.pypa.io/stable/) installed:
 pipx run textual-demo
 ```
 
-### Was that fun? 
+## Was that fun? 
 
 Head over to [Textual](https://github.com/textualize/textual/) to start building!
 
