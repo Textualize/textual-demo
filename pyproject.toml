@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/Will McGugan/textual-demo#readme"
-Issues = "https://github.com/Will McGugan/textual-demo/issues"
-Source = "https://github.com/Will McGugan/textual-demo"
+Documentation = "https://github.com/Textualize/textual-demo#readme"
+Issues = "https://github.com/Textualize/textual-demo/issues"
+Source = "https://github.com/Textualize/textual-demo"
 
 [tool.hatch.version]
 path = "src/textual_demo/__about__.py"
