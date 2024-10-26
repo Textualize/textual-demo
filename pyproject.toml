@@ -10,7 +10,7 @@ name = "textual-demo"
 dynamic = ["version"]
 description = "The Textual demo, packaged for your convenience"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 license = "MIT"
 keywords = []
 authors = [
