@@ -2,7 +2,7 @@
 Quick access to the [Textual demo](https://github.com/textualize/textual)
 
 The Textual demo is bundled with the Textual library.
-This project bundles that app so that you it is a single command away.
+This project bundles that app so that it is a single command away.
       
 If you have [uv](https://docs.astral.sh/uv/guides/tools/) installed:
 
