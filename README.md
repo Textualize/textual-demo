@@ -39,8 +39,8 @@ pipx run textual-demo
 
 ## Build Terminal Apps
 
-See the [Textual docs]([https://github.com/textualize/textual/](https://textual.textualize.io/) to start building!
-
+See the [Textual docs](https://textual.textualize.io/) to start building!
+ 
 
 
 
