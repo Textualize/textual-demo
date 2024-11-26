@@ -21,15 +21,23 @@ pipx run --python 3.12hg textual-demo
 
 ### Game Page
 
-<img width="1519" alt="Screenshot 2024-11-24 at 12 18 10" src="https://github.com/user-attachments/assets/a4894510-bfa2-47a5-8bd8-b7cbf8179924">
+Textual is not a game framework, but we can still have a little fun with it!
+
+Check out the Sliding Puzzle in the demo:
+
+![textual-game](https://github.com/user-attachments/assets/822a2d34-4b16-4cf5-bf89-f3715b6861fa)
 
 
 ### Projects Page
+
+A small selection of Textual projects.
 
 <img width="1382" alt="Screenshot 2024-11-24 at 12 34 05" src="https://github.com/user-attachments/assets/91113ac5-a8c4-446f-bcde-31d749d74f98">
 
 
 ### Widgets Page
+
+Try out some of Textual's [widgets](https://textual.textualize.io/widget_gallery/).
 
 <img width="1382" alt="Screenshot 2024-11-24 at 12 34 44" src="https://github.com/user-attachments/assets/e4603a82-0a28-4c23-9a92-2aa8faff3200">
 
