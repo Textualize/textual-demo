@@ -1,7 +1,13 @@
 A demonstration and teaching aid for building terminals apps with [Textual](https://github.com/textualize/textual).
 
+
 > [!TIP]
 > No hacks were required to make your terminal do this!
+
+
+![Textual supports themes](https://github.com/user-attachments/assets/3de1a991-1154-48b4-b547-21f98509f8c4)
+
+
 
 If you have [uv](https://docs.astral.sh/uv/guides/tools/) installed:
 
