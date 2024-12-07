@@ -18,7 +18,7 @@ uvx --python 3.12 textual-demo
 If you have [pipx](https://pipx.pypa.io/stable/) installed:
 
 ```
-pipx run --python 3.12 textual-demo
+pipx run --python python3.12 textual-demo
 ```
 
 <img width="1382" alt="Screenshot 2024-11-24 at 12 32 53" src="https://github.com/user-attachments/assets/dc17d2c5-4608-4910-872a-08fe6b2fe70c">
